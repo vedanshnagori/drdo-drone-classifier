@@ -1,2 +1,1 @@
-# drdo-drone-classifier
-My contributions towards the drdo drone detection project. 
+# DRDO - Real Time Drone Detection Project 
